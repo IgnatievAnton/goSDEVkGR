@@ -1,2 +1,2 @@
 # goSDEVkGR
-vk graber 
+first project on GO
